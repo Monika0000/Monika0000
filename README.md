@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 # Visitors count
 
-![:monika](https://count.getloli.com/get/@:monika)
+![:monika](https://count.getloli.com/get/@:monika?theme=rule34)

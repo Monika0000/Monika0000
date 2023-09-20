@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 # Visitors count
 
-![:monika0000](https://count.getloli.com/get/@:monika0000)
+![:monika](https://count.getloli.com/get/@:monika)

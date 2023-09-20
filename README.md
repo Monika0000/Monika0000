@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ## Projects
-[![SREngine](https://img.shields.io/badge/-L2D-000?&logo=c%2B%2B)](https://github.com/Monika0000/SREngine)
-[![EvoVulkan](https://img.shields.io/badge/-L2D-000?&logo=c%2B%2B)](https://github.com/Monika0000/EvoVulkan)
-[![EvoScript](https://img.shields.io/badge/-L2D-000?&logo=c%2B%2B)](https://github.com/Monika0000/EvoScript)
+[![SREngine](https://img.shields.io/badge/-SREngine-000?&logo=c%2B%2B)](https://github.com/Monika0000/SREngine)
+[![EvoVulkan](https://img.shields.io/badge/-EvoVulkan-000?&logo=c%2B%2B)](https://github.com/Monika0000/EvoVulkan)
+[![EvoScript](https://img.shields.io/badge/-EvoScript-000?&logo=c%2B%2B)](https://github.com/Monika0000/EvoScript)
 
 ## Languages
 ![CPP](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B)

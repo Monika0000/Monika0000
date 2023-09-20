@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Visitors count
+## Visitors count
 
 ![:monika](https://count.getloli.com/get/@:monika?theme=rule34)
+
+## 𝗦𝘁𝗮𝘁𝘀
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monika0000&layout=compact&theme=dracula)
+####
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=monika0000&show_icons=true&theme=dracula)

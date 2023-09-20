@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Visitors count
+![:monika](https://count.getloli.com/get/@:monika?theme=rule34)
+
 ## Projects
 [![SREngine](https://img.shields.io/badge/-SREngine-000?&logo=c%2B%2B)](https://github.com/Monika0000/SREngine)
 [![EvoVulkan](https://img.shields.io/badge/-EvoVulkan-000?&logo=c%2B%2B)](https://github.com/Monika0000/EvoVulkan)
@@ -23,9 +26,6 @@ Here are some ideas to get you started:
 ## Languages
 ![CPP](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B)
 ![C](https://img.shields.io/badge/-C-000?&logo=c)
-
-## Visitors count
-![:monika](https://count.getloli.com/get/@:monika?theme=rule34)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monika0000&layout=compact&theme=dracula)

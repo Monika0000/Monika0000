@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![:monika](https://count.getloli.com/get/@:monika?theme=rule34)
 
 ## Projects
-[![SREngine](https://img.shields.io/badge/-SREngine-000?&logo=c%2B%2B)](https://github.com/Monika0000/SREngine)
+[![SREngine](https://img.shields.io/badge/-SREngine-000?&logo=c%2B%2B)](https://github.com/SpaRcle-Studio/SREngine)
 [![EvoVulkan](https://img.shields.io/badge/-EvoVulkan-000?&logo=c%2B%2B)](https://github.com/Monika0000/EvoVulkan)
 [![EvoScript](https://img.shields.io/badge/-EvoScript-000?&logo=c%2B%2B)](https://github.com/Monika0000/EvoScript)
 
